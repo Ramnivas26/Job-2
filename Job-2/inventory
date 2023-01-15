@@ -1,1 +1,1 @@
-172.31.17.21 ansible_user=edureka
+172.31.17.21 ansible_user=edureka ansible_ssh_pass=DevOps12
